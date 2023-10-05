@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  column-gap: 100px;
+  align-items: center;
+  justify-content: center;
+  background-color: #037379;
+  color: #fff;
+  font-family: "FontAwesome";
+  letter-spacing: 2px;
+}
+.active {
+  border-bottom: 3px solid rgb(1, 1, 1);
+  padding: 20px;
+  color: #000;
+  text-align: center;
+}
